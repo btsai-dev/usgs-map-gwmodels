@@ -1,7 +1,7 @@
 # These are required for developing the package (running the tests, building
 # the documentation) but not necessarily required for _using_ it.
 pyyaml
-numpy
+numpy<1.24.0
 scipy
 xarray
 pandas
